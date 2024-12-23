@@ -1,3 +1,3 @@
 # PromptMargin
-<img src="figure.png" width="128"/>
+<img src="figure.png">
 
