@@ -1,2 +1,3 @@
 # PromptMargin
-![alt text](../master/figure.png)
+<img src="../master/figure.png">
+
