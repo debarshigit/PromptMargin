@@ -1,5 +1,5 @@
 ## PromptMargin
-<img src="figure.png" width="650">
+<img src="figure.png" width="700">
 
 ## Install
 
