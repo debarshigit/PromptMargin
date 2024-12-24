@@ -50,3 +50,4 @@ Alternatively, you can run directly from the bash script file by just giving the
 bash train_test.sh <dataset_name>
 ```
 
+
