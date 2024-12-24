@@ -1,5 +1,5 @@
 ## PromptMargin
-<img src="figure.png" width="700">
+<img src="figure.png" width="750">
 
 ## Install
 Clone this git repo and create the environment:
