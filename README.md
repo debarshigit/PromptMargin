@@ -2,9 +2,10 @@
 <img src="figure.png" width="750">
 
 ## Install
-Clone this git repo and create the environment:
+Clone this git repository and create the environment:
 ```
 git clone https://github.com/debarshigit/PromptMargin.git
+cd PromptMargin
 conda env create --promptmargin.yml
 conda activate promptmargin
 
