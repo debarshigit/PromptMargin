@@ -49,5 +49,12 @@ Alternatively, you can run directly from the bash script file by just giving the
 # <dataset_name> can be eurosat, isic, plant_disease, chestxray
 bash train_test.sh <dataset_name>
 ```
+## Acknowledgements
+[cdfsl-benchmark](https://github.com/IBM/cdfsl-benchmark?tab=readme-ov-file)
 
+[MaPLe](https://github.com/muzairkhattak/multimodal-prompt-learning)
+
+[StyleAdv-CDFSL](https://github.com/lovelyqian/StyleAdv-CDFSL)
+
+[Channel_Importance_FSL](https://github.com/Frankluox/Channel_Importance_FSL)
 
