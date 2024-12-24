@@ -7,4 +7,4 @@ if [ -z "$DATASET" ]; then
     exit 1
 fi
 
-python train_files/train_test_cdfsl_${DATASET}.py
+python train_test_files/train_test_cdfsl_${DATASET}.py
