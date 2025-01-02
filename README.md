@@ -1,5 +1,6 @@
 ## PromptMargin
-[Paper Link](https://openreview.net/pdf?id=ZnWqtPhHM7)
+[Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shift](https://openreview.net/pdf?id=ZnWqtPhHM7)
+
 <img src="figure.png" width="750">
 
 ## Install
