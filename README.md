@@ -1,4 +1,5 @@
 ## PromptMargin
+[Paper Link](https://openreview.net/pdf?id=ZnWqtPhHM7)
 <img src="figure.png" width="750">
 
 ## Install
