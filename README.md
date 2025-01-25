@@ -52,6 +52,19 @@ Alternatively, you can run directly from the bash script file by just giving the
 # <dataset_name> can be eurosat, isic, plant_disease, chestxray
 bash train_test.sh <dataset_name>
 ```
+## Cite
+```
+@article{
+brahma2025prompt,
+title={Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shifts},
+author={Debarshi Brahma and Anuska Roy and Soma Biswas},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=ZnWqtPhHM7},
+note={}
+}
+```
 ## Acknowledgements
 [cdfsl-benchmark](https://github.com/IBM/cdfsl-benchmark?tab=readme-ov-file)
 
